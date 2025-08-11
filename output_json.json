@@ -1,0 +1,29 @@
+{
+  "document": "template_filled.docx",
+  "type": "Articles of Association",
+  "process": "Company Incorporation",
+  "issues_found": [
+    {
+      "section": "General",
+      "issue": "Missing execution block for the company.",
+      "severity": "Medium",
+      "quote": "Individual shareholder                                                                         \nName: Ahmed Kareem Al Mansoori\nPassport/ID: UAE Passport No. U12345678\nAddress: Unit 1208, Al Sila Tower, Al Maryah Island,\nAbu Dhabi, UAE\nSignature: _______________________\nDate: 10 August 2025\nPlace of signing: Abu Dhabi, United Arab Emirates",
+      "suggestion": "Include a section for the company to execute the resolution, including signature, date, and place of signing by an authorised signatory.",
+      "rationale": "Resolutions require formal execution by the company to evidence their adoption.",
+      "citation": "There is no explicit rule requiring execution blocks but this is implied by standard corporate practices.",
+      "source_title": "ADGM Companies Regulations",
+      "locator_hint": "N/A"
+    },
+    {
+      "section": "General",
+      "issue": "Grammar error",
+      "severity": "Low",
+      "quote": "FURTHER RESOVED, that Ahmed Kareem Al Mansoori (UAE Passport No. U12345678) is, and each acting alone is, hereby authorized to do and perform any and all such acts, including execution of any and all documents, as said person shall deem necessary or advisable, to carry out the purposes of the foregoing resolutions.",
+      "suggestion": "Change RESOVED to RESOLVED.",
+      "rationale": "Spelling mistakes can undermine the document.",
+      "citation": "There is no explicit rule requiring error free documents, but this is implied by standard corporate practices.",
+      "source_title": "ADGM Companies Regulations",
+      "locator_hint": "N/A"
+    }
+  ]
+}
