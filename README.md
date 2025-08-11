@@ -48,3 +48,7 @@ streamlit run app.py
 
 # After review:
 <img width="536" height="717" alt="image" src="https://github.com/user-attachments/assets/249bdf7f-c37a-410b-b2a3-6c5cda642481" />
+
+
+# Demo video
+https://www.loom.com/share/edd8311c5afa4ca08353158090ce33a7?sid=ff3fb3a2-175d-4a76-a152-06c3cd277c95
