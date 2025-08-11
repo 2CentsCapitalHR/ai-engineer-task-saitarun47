@@ -14,7 +14,10 @@ This task implements an agent that will assist in reviewing, validating, and hel
 git clone <repository-url>
 
 # Install dependencies
-pip install -r requirements.txt
+uv add -r requirements.txt
+
+# Activate the virtual environment
+.\.venv\Scripts\activate
 
 # Create a .env file and the paste the api key there
 GOOGLE_API_KEY=<your-api-key>
